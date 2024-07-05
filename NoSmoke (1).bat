@@ -5,7 +5,12 @@ title BOOFER
 
 :greeting
 cls
-echo
+echo  ┌─┐┌─┐┬ ┬┌─┐  ┬┌─┐  ┌┐ ┌─┐┌─┐┌─┐┌─┐┬─┐
+echo ┌─┘├─┤└┬┘└─┐  │├─┘  ├┴┐│ ││ │├┤ ├┤ ├┬┘
+echo └─┘┴ ┴ ┴ └─┘  ┴┴    └─┘└─┘└─┘└  └─┘┴└─
+
+echo -------------------------------------------------------------------------------------------
+
 echo                 M                          
 echo                dM                          
 echo                MMr                         
@@ -27,7 +32,7 @@ echo  "4MMMMnn..   *MMM  MM  MMP"  .dMMMMMMM""
 echo    ^MMMMMMMMx.  *ML "M .M*  .MMMMMM**"        
 echo       *PMMMMMMhn. *x > M  .MMMM**""           
 echo         ""**MMMMhx/.h/ .=*"                  
-echo
+
 
 set /p Ip=ENTER THE BOOF: 
 :top
