@@ -5,22 +5,18 @@ title BOOFER
 
 :greeting
 cls
-echo  ┌─┐┌─┐┬ ┬┌─┐  ┬┌─┐  ┌┐ ┌─┐┌─┐┌─┐┌─┐┬─┐
-echo ┌─┘├─┤└┬┘└─┐  │├─┘  ├┴┐│ ││ │├┤ ├┤ ├┬┘
-echo └─┘┴ ┴ ┴ └─┘  ┴┴    └─┘└─┘└─┘└  └─┘┴└─
+echo ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-echo -------------------------------------------------------------------------------------------
-
-echo                 M                          
-echo                dM                          
-echo                MMr                         
-echo               4MMML                  .     
-echo               MMMMM.                xf     
-echo   .          "MMMMM               .MM-     
-echo  Mh..        +MMMMMM            .MMMM      
-echo .MMM.         .MMMMML.          MMMMMh      
-echo   )MMMh.        MMMMMM         MMMMMMM       
-echo     3MMMMx.     'MMMMMMf      xnMMMMMM"       
+echo                  M                          
+echo                 dM                          
+echo                 MMr                         
+echo                4MMML                  .     
+echo                MMMMM.                xf     
+echo    .          "MMMMM               .MM-     
+echo   Mh..        +MMMMMM            .MMMM      
+echo  .MMM.         .MMMMML.          MMMMMh      
+echo    )MMMh.        MMMMMM         MMMMMMM       
+echo      3MMMMx.     'MMMMMMf      xnMMMMMM"       
 echo      '*MMMMM      MMMMMM.     nMMMMMMP"        
 echo        *MMMMMx    "MMMMM\    .MMMMMMM=         
 echo         *MMMMMh   "MMMMM"   JMMMMMMP           
@@ -32,7 +28,12 @@ echo  "4MMMMnn..   *MMM  MM  MMP"  .dMMMMMMM""
 echo    ^MMMMMMMMx.  *ML "M .M*  .MMMMMM**"        
 echo       *PMMMMMMhn. *x > M  .MMMM**""           
 echo         ""**MMMMhx/.h/ .=*"                  
-
+echo
+echo ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+echo 
+echo
+echo
+echo
 
 set /p Ip=ENTER THE BOOF: 
 :top
