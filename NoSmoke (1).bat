@@ -6,7 +6,6 @@ title BOOFER
 :greeting
 cls
 echo ---------------------------------------------------------------------------------------------------------
-
 echo                        M                          
 echo                        dM                          
 echo                        MMr                         
@@ -28,12 +27,10 @@ echo    "4MMMMnn..   *MMM  MM  MMP"  .dMMMMMMM""
 echo      ^MMMMMMMMx.  *ML "M .M*  .MMMMMM**"        
 echo         *PMMMMMMhn. *x > M  .MMMM**""           
 echo           ""**MMMMhx/.h/ .=*"                  
-
-
 echo --------------------------------------------------------------------------------------------------------------------------
 
 
-set /p Ip=ENTER THE BOOF: 
+set /p Ip=enter your victim: 
 :top
 PING -n 1 %IP% | FIND "TTL="
 IF ERRORLEVEL 1 (SET in=0b & echo boofed ur ip bud.) 
