@@ -1,5 +1,5 @@
 @echo off
-color 6
+color 2
 
 title NOSMOKING
 
