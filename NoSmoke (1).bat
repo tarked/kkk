@@ -30,7 +30,7 @@ echo           ""**MMMMhx/.h/ .=*"
 echo --------------------------------------------------------------------------------------------------------------------------
 
 
-set /p Ip=enter your victim: 
+set /p Ip=: 
 :top
 PING -n 1 %IP% | FIND "TTL="
 IF ERRORLEVEL 1 (SET in=0b & echo boofed ur ip bud.) 
